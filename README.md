@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Andrei, an Ateneo de Davao University student studying for a Bachelor of Science in Information Technology (BSIT). Welcome to my profile on Github, where I share, send, and create specific projects with a wide range of programming languages based on my learning experience/progress both inside and outside of school.<br><br>Here are a few things to take note of:<br><br>• I'm still a beginner in programming.<br><br>• I'm currently learning Cybersecurity, Application Development, Database Systems, and Event-Driven Programming (in school).<br><br>• I'm nowadays working on a web portfolio about myself for the near future.<br><br>• My Hobbies are Filmmaking and Gaming (PC)<br><br>• I am a chill person who will try his best to be nice to everyone, yes, everyone. :D
+Hi! I am Andrei, an Ateneo de Davao University student studying for a Bachelor of Science in Information Technology (BSIT). Welcome to my profile on Github :DD
 
 
 ## 🌐 Socials:
