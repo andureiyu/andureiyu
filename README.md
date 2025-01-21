@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi! I am Andrei, an Ateneo de Davao University student studying for a Bachelor of Science in Information Technology (BSIT). Welcome to my profile on Github :DD
 
+- I am not an IT professional 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrei.deokem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andureyu.c) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aui2211) 
