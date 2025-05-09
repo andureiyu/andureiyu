@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi! I am Andrei, an Ateneo de Davao University student studying for a Bachelor of Science in Information Technology (BSIT). Welcome to my profile on Github :DD
-
-- I am not an IT professional 
+An ordinary nice person.
 
 
 ## 🌐 Socials:
